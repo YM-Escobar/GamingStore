@@ -130,7 +130,7 @@ export default function PrivacyPolicyPage() {
                     href="mailto:gamingstore.support@gmail.com"
                     className="text-2xl font-bold hover:text-pink-400 transition-colors"
                   >
-                    gamingstore.support@gmail.com
+                    gamingstoresupp@gmail.com
                   </a>
                 </div>
               </div>

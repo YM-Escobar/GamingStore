@@ -119,7 +119,7 @@ export default function TermsPage() {
                 className="inline-flex items-center gap-3 text-3xl font-bold text-pink-400 hover:text-pink-300 transition-all duration-300 hover:scale-105"
               >
                 <Mail className="w-8 h-8" />
-                gamingstore.support@gmail.com
+                gamingstoresupp@gmail.com
               </a>
             </div>
 
